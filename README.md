@@ -1,7 +1,7 @@
 <h1>Django Rest Framework</h1>
 
 <h2>==> How to setup django project for create APIs Backend</h2>
-    - Intall virtual environment -> <b style="color:red;">python -m venv env</b><br>
+    - Intall virtual environment -> <b>python -m venv env</b><br>
     - Activate Virtual Environment to install any module<br>
     - Install django -> <b>pip install django</b><br>
     - Install djangorestframework -> <b>pip install djangorestframework</b><br>
@@ -15,6 +15,7 @@
         - First need to activate virtual environment -> env/script/<b>activate</b><br>
         - Then command -> <b>pip freeze > requirements.txt</b> in directory want to located  <br>
 
-=============================================
-<h3 style="color:green;">Then Explore More<h3>
-=============================================
+==========================================================
+<h2>Then Explore More<h2>
+                    Thank!!
+==========================================================
